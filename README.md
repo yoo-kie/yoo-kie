@@ -6,8 +6,12 @@
 - I 💛 organizing-!<br/>
 - 🎬 I'm interested in iOS development using AVFoundation Framework.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=gruvbox)
+
+
 <br/>
 
 [![Notion](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=https://www.notion.so/ad9417bfee8c485d874e14ab3e2fb48e)](https://www.notion.so/ad9417bfee8c485d874e14ab3e2fb48e)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%97%B0%EC%A3%BC-%EC%9C%A0-973107173/)](https://www.linkedin.com/in/%EC%97%B0%EC%A3%BC-%EC%9C%A0-973107173/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yjyoo926@gmail.com)
+
