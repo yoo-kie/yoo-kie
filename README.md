@@ -2,9 +2,9 @@
 ### Hi there 👋
 <img src="https://user-images.githubusercontent.com/30213655/108702100-21cd5080-754c-11eb-8400-55bac6b659a2.png" alt="drawing" width="200"/>
 
-👩🏻‍💻 I'm an iOS developer.<br/>
-I 💛 organizing-!<br/>
-🎬 I'm interested in iOS development using AVFoundation Framework.
+- 👩🏻‍💻 I'm an iOS developer.<br/>
+- I 💛 organizing-!<br/>
+- 🎬 I'm interested in iOS development using AVFoundation Framework.
 
 [![Notion](http://img.shields.io/badge/-Notion-black?style=flat-square&logo=notion&link=https://www.notion.so/ad9417bfee8c485d874e14ab3e2fb48e)](https://www.notion.so/ad9417bfee8c485d874e14ab3e2fb48e)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EC%97%B0%EC%A3%BC-%EC%9C%A0-973107173/)](https://www.linkedin.com/in/%EC%97%B0%EC%A3%BC-%EC%9C%A0-973107173/)
