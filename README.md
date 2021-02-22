@@ -6,8 +6,9 @@
 - I 💛 organizing-!<br/>
 - 🎬 I'm interested in iOS development using AVFoundation Framework.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoo-kie&count_private=true&show_icons=true&theme=gruvbox)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoo-kie&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
